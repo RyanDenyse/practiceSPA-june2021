@@ -1,7 +1,7 @@
 /* eslint-disable prettier/prettier */
 import html from "html-literal";
 
-export default () => html`
+export default (st) => html`
   <section id="bio">
     <h2>Vivamus ac justo eu nisi</h2>
     <img
